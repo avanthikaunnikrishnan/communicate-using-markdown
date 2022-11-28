@@ -17,7 +17,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!--step0-->
 
 GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.

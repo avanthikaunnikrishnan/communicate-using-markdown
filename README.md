@@ -39,6 +39,8 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <!--endstep0-->
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 <!--
   <<< Author notes: Step 1 >>>
